@@ -2,12 +2,12 @@
 
 # My Profile
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=morita23&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morita23" />
-</a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=morita23&count_private=true&show_icons=true&theme=buefy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=morita23&layout=compact&theme=buefy)
+
+# My Github Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=morita23)](https://github.com/morita23/morita23)
 
 # Others
 
