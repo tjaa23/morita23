@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tjaa23
+- 👋 @tjaa23
 
 # My Profile
 
